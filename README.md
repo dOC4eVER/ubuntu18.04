@@ -15,4 +15,4 @@ If you want to install main server with admin panel, choose MAIN.
 If you want to install load balance on additional servers, add a server to panel in manage servers page, then run script and proceed with LB option.  
 
 ### note,
-i forked this install.py is fromhttps://github.com/emre1393/
+i forked this install.py is from https://github.com/emre1393/
